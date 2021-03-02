@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Olatunji\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Olatunji\\.nuget\\packages"
+    ]
+  }
+}
